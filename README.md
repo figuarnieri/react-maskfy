@@ -41,7 +41,7 @@ or
 {Function: undefined} **after input event**
 
 ## Source
-[Github](https://github.com/figuarnieri/maskfy) | [Vanilla npm](https://www.npmjs.com/package/maskfy) | [Example](https://figuarnieri.github.io/maskfy/) | [@figuarnieri](https://twitter.com/figuarnieri)
+[Github](https://github.com/figuarnieri/maskfy) | [Vanilla npm](https://www.npmjs.com/package/maskfy) | [Example](https://figuarnieri.github.io/react-maskfy/) | [@figuarnieri](https://twitter.com/figuarnieri)
 ## License
 The MIT License
 Copyright 2018 © [Filipe Guarnieri](https://figuarnieri.github.io/)
