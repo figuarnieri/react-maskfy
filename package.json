@@ -1,0 +1,28 @@
+{
+  "name": "react-maskfy",
+  "version": "2.0.0",
+  "description": "A React library without a dependency... Very simple to install and use. With only 1kb (gzip) code, IE Compatibility, it's also well accepted on mobile devices",
+  "main": "maskfy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/figuarnieri/maskfy.git"
+  },
+  "keywords": [
+    "1kb",
+    "inputmask",
+    "input-mask",
+    "javascript",
+    "nojquery",
+    "data-mask",
+    "1kb"
+  ],
+  "author": "figuarnieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/figuarnieri/maskfy/issues"
+  },
+  "homepage": "https://figuarnieri.github.io/maskfy/"
+}
