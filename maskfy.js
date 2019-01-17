@@ -6,7 +6,7 @@ React = require('react');
  * @name Maskfy
  * @description: A Javascript library without a dependency of jQuery, Zepto, and etc ... Very simple to install and use. With only 1kb (gzip) code, it's also well accepted on mobile devices
  * @since: 2018
- * @version: 2.0.4
+ * @version: 2.0.5
  */
 "use strict";
 
@@ -146,4 +146,4 @@ class Maskfy extends React.Component{
   }
 }
 
-module.exports Maskfy;
+module.exports = Maskfy;
