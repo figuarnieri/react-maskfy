@@ -1,15 +1,16 @@
-import { Component } from 'react';
+React = require('react');
+
 /**
  * @author: figuarnieri
  * @copyright: The MIT License
  * @name Maskfy
  * @description: A Javascript library without a dependency of jQuery, Zepto, and etc ... Very simple to install and use. With only 1kb (gzip) code, it's also well accepted on mobile devices
  * @since: 2018
- * @version: 2.0.0
+ * @version: 2.0.4
  */
 "use strict";
 
-export default class Maskfy extends Component{
+class Maskfy extends React.Component{
   /**
    * @param {String || Object} Selector String
    * @return {String || Object}
@@ -144,3 +145,5 @@ export default class Maskfy extends Component{
     return this.props.children;
   }
 }
+
+module.exports Maskfy;

@@ -1,6 +1,6 @@
 {
   "name": "react-maskfy",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "A React library without a dependency... Very simple to install and use. With only 1kb (gzip) code, IE Compatibility, it's also well accepted on mobile devices",
   "main": "maskfy.js",
   "scripts": {
