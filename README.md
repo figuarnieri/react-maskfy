@@ -1,4 +1,4 @@
-# Maskfy (2.0.0) - Input Mask Simple
+# Maskfy (2.0.2) - Input Mask Simple
 A React library without a dependency... Very simple to install and use. With only 1kb (gzip) code, IE Compatibility, it's also well accepted on mobile devices
 ## Install / Usage
 Install npm Maskfy

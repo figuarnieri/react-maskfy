@@ -76,7 +76,7 @@ export default class Maskfy extends Component{
     const _reverse = this.state.reverse || e.target.dataset.maskfyReverse==='true';
     const _letters = this.state.letters || e.target.dataset.maskfyLetters==='true';
     let _valueFormat;
-    if(!_mask) return console.error(new Error('Maskfy: Insert input mask required. Ex.: Maskfy({mask: "9999-99-99"})'));
+    if(!_mask) return true;
     if(_mask.length>=_value.length){
       _valueFormat = _value.replace((_letters ? /\W/g : /\D/g), '').split('');
     } else {
